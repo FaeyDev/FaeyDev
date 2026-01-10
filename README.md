@@ -35,7 +35,7 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCeqSE/giphy.gif" width="30px"> About Me
 
-> <samp>Saya adalah mahasiswa Teknik Informatika yang tertarik pada **Web Development** dan **Android Modding**. Seperti Makima yang teliti, saya memastikan setiap baris kode berjalan sesuai rencana.</samp>
+> <samp>Saya adalah mahasiswa Teknik Informatika yang tertarik pada **Web Development** dan **Android Modding**.</samp>
 
 - 🔭 I’m currently working on **Personal Portfolio & Coffee Shop Website**
 - 🌱 I’m currently learning **Python (Django) & English**
