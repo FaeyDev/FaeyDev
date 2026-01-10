@@ -49,7 +49,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=black" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&color=d00000" />
-  <img src="https://img.shields.io/badge/C-%23F05033.svg?style=for-the-badge&logo=C&logoColor=white&color=d00000"/>
+  <img src="https://img.shields.io/badge/CMake-%23F05033.svg?style=for-the-badge&logo=CMake&logoColor=white&color=black"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=d00000" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black" />
   <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white&color=d00000" />
