@@ -17,13 +17,13 @@
 
   <br/>
 
-  <a href="https://instagram.com/USERNAME">
+  <a href="https://www.instagram.com/notttzeeeeeee">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=black" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/USERNAME">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=d00000" alt="LinkedIn"/>
   </a>
-  <a href="mailto:EMAILMU@GMAIL.COM">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=agustinovfreeze@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Gmail"/>
   </a>
 
@@ -57,29 +57,6 @@
 </div>
 
 <br/>
-
----
-
-### <img src="https://media.giphy.com/media/Lopx9eUIqBZhS/giphy.gif" width="30px"> GitHub Stats
-
-<div align="center">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&hide_border=true" alt="Langs" height="180px" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
-  </a>
-</div>
-
-</div>
-
----
 
 <div align="center">
   <samp>If you work for me, I’ll grant you any wish. <br/> <b>Bang.</b> 👉💥</samp>
