@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/foto.png" width="100%" style="border-radius: 10px; border: 2px solid #d00000;" />
+  <img src="https://tenor.com/id/view/makima-chainsaw-man-car-drinking-mommy-gif-26989836" width="100%" style="border-radius: 10px; border: 2px solid #d00000;" />
 
   <br/>
   <br/>
