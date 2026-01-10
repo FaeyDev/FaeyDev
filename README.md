@@ -1,61 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Freeze%20AD%20Kaban&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Master%20of%20Code&descAlignY=55&descAlign=60" width="100%"/>
-</div>
 
-<div align="center">
-  <h3>👋 Hello World!</h3>
-  <p>I am a Full Stack Developer specializing in Python, Django, and Android Ecosystem.</p>
-</div>
+  <img src="https://media1.tenor.com/m/Zf2qUj-j1yAAAAAC/makima-chainsaw-man.gif" width="100%" style="border-radius: 10px; border: 2px solid #d00000;" />
 
-<br/>
+  <br/>
+  <br/>
 
-<h3 align="center">🏆 Achievements</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Level-Master-red?style=for-the-badge&logo=shuriken&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/Pull_Requests-500+-orange?style=for-the-badge&logo=github&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/Pro-Verified-green?style=for-the-badge&logo=github-sponsors&logoColor=white" height="35">
-</div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=D00000&center=true&vCenter=true&width=435&lines=Halo,+Saya+Freeze+AD+Kaban;Seorang+Developer;Control+Your+Code,+Control+The+World" alt="Typing SVG" />
+  </a>
 
-<br/>
+  <p align="center">
+    <samp>
+      "Semua iblis dilahirkan dengan nama. Semakin nama itu ditakuti, semakin kuat iblis itu."
+      <br>
+      <b>Begitu juga dengan kode yang saya tulis.</b>
+    </samp>
+  </p>
 
-<h3 align="center">📊 GitHub Stats (Custom)</h3>
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td valign="top" width="50%">
-        <h3>🔥 General Stats</h3>
-        <img src="https://img.shields.io/badge/Total_Commits-1,250-blue?style=flat-square&logo=github" width="100%"><br>
-        <img src="https://img.shields.io/badge/Total_Stars-340-yellow?style=flat-square&logo=star" width="100%"><br>
-        <img src="https://img.shields.io/badge/Total_PRs-125-orange?style=flat-square&logo=git-pull-request" width="100%"><br>
-        <img src="https://img.shields.io/badge/Contributed_to-50_Repos-success?style=flat-square&logo=repo" width="100%"><br>
-        <img src="https://img.shields.io/badge/Current_Streak-120_Days-fire?style=flat-square&logo=fire&logoColor=red" width="100%">
-      </td>
-      
-      <td valign="top" width="50%">
-        <h3>💻 Top Languages</h3>
-        <b>Python (55%)</b><br>
-        <img src="https://progress-bar.dev/55?title=Lines&width=200&color=3670A0&suffix=+"><br>
-        <b>Django (25%)</b><br>
-        <img src="https://progress-bar.dev/25?title=Lines&width=200&color=092E20&suffix=+"><br>
-        <b>JavaScript (15%)</b><br>
-        <img src="https://progress-bar.dev/15?title=Lines&width=200&color=F7DF1E&suffix=+"><br>
-        <b>HTML/CSS (5%)</b><br>
-        <img src="https://progress-bar.dev/5?title=Lines&width=200&color=E34F26&suffix=+"><br>
-      </td>
-    </tr>
-  </table>
+  <br/>
+
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=black" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=d00000" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:EMAILMU@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Gmail"/>
+  </a>
+
 </div>
 
 <br/>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+---
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCeqSE/giphy.gif" width="30px"> About Me
+
+> <samp>Saya adalah mahasiswa Teknik Informatika yang tertarik pada **Web Development** dan **Android Modding**. Seperti Makima yang teliti, saya memastikan setiap baris kode berjalan sesuai rencana.</samp>
+
+- 🔭 I’m currently working on **Personal Portfolio & Coffee Shop Website**
+- 🌱 I’m currently learning **Python (Django) & English**
+- 📱 I love **Android Custom ROMs & Rooting**
+- ⚡ Fun fact: **"A corpse is talking."**
+
+---
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mysql,github,vscode,androidstudio,kotlin&perline=11" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=black" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&color=d00000" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=d00000" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black" />
+  <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white&color=d00000" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=black" />
+</div>
+
+<br/>
+
+---
+
+### <img src="https://media.giphy.com/media/Lopx9eUIqBZhS/giphy.gif" width="30px"> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&title_color=d00000&icon_color=d00000&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180px" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&title_color=d00000&icon_color=d00000&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180px" alt="Langs" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <samp>If you work for me, I’ll grant you any wish. <br/> <b>Bang.</b> 👉💥</samp>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d00000&height=100&section=footer" width="100%"/>
 </div>
