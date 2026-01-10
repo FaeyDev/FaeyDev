@@ -62,7 +62,7 @@
 
 ---
 
-### <img src="/assets/foto.png" width="30px"> GitHub Stats
+### <img src="assets/foto.png" width="30px"> GitHub Stats
 
 <div align="center">
 
