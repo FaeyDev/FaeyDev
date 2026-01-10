@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black" />
   <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white&color=d00000" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%23F05033.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=d00000"/>
 </div>
 
 <br/>
