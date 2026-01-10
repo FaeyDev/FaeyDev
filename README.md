@@ -62,7 +62,7 @@
 
 ---
 
-### <img src="assets/foto.png" width="30px"> GitHub Stats
+### <img src="https://media.giphy.com/media/Lopx9eUIqBZhS/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
 
