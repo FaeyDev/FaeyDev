@@ -9,9 +9,9 @@
 
   <p align="center">
     <samp>
-      "Semua iblis dilahirkan dengan nama. Semakin nama itu ditakuti, semakin kuat iblis itu."
+      "Janganlah pernah menyerah ketika kamu masih mampu berusaha lagi.
       <br>
-      <b>Begitu juga dengan kode yang saya tulis.</b>
+      <b> Tidak ada kata berakhir sampai kamu berhenti mencoba."</b>
     </samp>
   </p>
 
