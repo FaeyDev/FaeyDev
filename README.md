@@ -62,20 +62,24 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/Lopx9eUIqBZhS/giphy.gif" width="30px"> GitHub Stats
+### <img src="/assets/foto.png" width="30px"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&title_color=d00000&icon_color=d00000&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180px" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&title_color=d00000&icon_color=d00000&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180px" alt="Langs" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&hide_border=true" alt="Langs" height="180px" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
+  </a>
 </div>
 
-<br/>
+</div>
 
 ---
 
