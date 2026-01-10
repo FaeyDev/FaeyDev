@@ -37,7 +37,7 @@
 
 > <samp>Saya adalah mahasiswa Teknik Informatika yang tertarik pada **Web Development** dan **Android Modding**.</samp>
 
-- 🔭 I’m currently working on **Personal Portfolio & Coffee Shop Website**
+- 🔭 I’m currently working on **Coffee Shop Website**
 - 🌱 I’m currently learning **Python (Django) & English**
 - 📱 I love **Android Custom ROMs & Rooting**
 - ⚡ Fun fact: **"A corpse is talking."**
