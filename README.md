@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/fotos.gif" width="100%" style="border-radius: 10px; border: 2px solid #d00000;" />
+  <img src="assets/foto.png" width="100%" style="border-radius: 10px; border: 2px solid #d00000;" />
 
   <br/>
   <br/>
