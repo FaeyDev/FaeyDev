@@ -1,67 +1,126 @@
 <div align="center">
 
-  <img src="assets/foto.png" width="100%" style="border-radius: 10px; border: 2px solid #d00000;" />
+# 🔥 Welcome to My Digital Domain 🔥
 
-  <br/>
-  <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Code+Architect;Problem+Solver" alt="Typing SVG" />
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=3000&pause=500&color=D00000&center=true&vCenter=true&width=435&lines=Hello%2C+My+name+is+Faey;I+am+a+student;Informatics+Engineering" alt="Typing SVG" /></a>
-
-  <p align="center">
-    <samp>
-      "Janganlah pernah menyerah ketika kamu masih mampu berusaha lagi.
-      <br>
-      <b> Tidak ada kata berakhir sampai kamu berhenti mencoba."</b>
-    </samp>
-  </p>
-
-  <br/>
-
-  <a href="https://www.instagram.com/notttzeeeeeee">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=black" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=d00000" alt="LinkedIn"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=agustinovfreeze@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Gmail"/>
-  </a>
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red&style=for-the-badge)](https://github.com/yourusername)
 
 </div>
 
-<br/>
+---
+
+## 💀 About Me
+
+```javascript
+const developer = {
+    name: "Your Name",
+    role: "Full Stack Developer",
+    location: "Indonesia",
+    code: ["JavaScript", "Python", "Java", "C++"],
+    technologies: {
+        frontEnd: ["React", "Vue", "Next.js"],
+        backEnd: ["Node.js", "Express", "Django"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        devOps: ["Docker", "Kubernetes", "AWS"],
+        tools: ["Git", "VS Code", "Figma"]
+    },
+    currentFocus: "Building scalable applications",
+    funFact: "I debug in my sleep"
+};
+```
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCeqSE/giphy.gif" width="30px"> About Me
-
-> <samp>Saya adalah mahasiswa Teknik Informatika yang tertarik pada **Web Development** dan **Android Modding**.</samp>
-
-- 🔭 I’m currently working on **Coffee Shop Website**
-- 🌱 I’m currently learning **Python (Django) & English**
-- 📱 I love **Android Custom ROMs & Rooting**
-- ⚡ Fun fact: **"A corpse is talking."**
-
----
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=black" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&color=d00000" />
-  <img src="https://img.shields.io/badge/CMake-%23F05033.svg?style=for-the-badge&logo=CMake&logoColor=white&color=black"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=d00000" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black" />
-  <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white&color=d00000" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/C++-%23F05033.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=d00000"/>
-  <img src="https://img.shields.io/badge/Dart-%23F05033.svg?style=for-the-badge&logo=Dart&logoColor=white&color=black" />
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=red)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=red)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=red)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=red)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=red)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=red)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=red)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=red)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=red)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=red)
+
 </div>
 
-<br/>
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <samp>If you work for me, I’ll grant you any wish. <br/> <b>Bang.</b> 👉💥</samp>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d00000&height=100&section=footer" width="100%"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=ff0000&hide_border=false" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&border=ff0000)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=ff0000&text_color=ffffff&icon_color=ff0000)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name-1&theme=radical&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000)](https://github.com/yourusername/project-name-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name-2&theme=radical&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000)](https://github.com/yourusername/project-name-2)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=red)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=red)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=red)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Code is like humor. When you have to explain it, it's bad." 💻
+
+![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+**⚡ Powered by caffeine and curiosity ⚡**
+
 </div>
