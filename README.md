@@ -1,74 +1,67 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F20505&background=00000000&center=true&vCenter=true&width=435&lines=SYSTEM+BREACH...;INITIALIZING+PROFILE;WELCOME,+USER.;SOFTWARE+ENGINEER;FULL+STACK+DEV" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/USERNAME_GITHUB_KAMU">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red" alt="GitHub Badge"/>
+  <img src="assets/foto.png" width="100%" style="border-radius: 10px; border: 2px solid #d00000;" />
+
+  <br/>
+  <br/>
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=3000&pause=500&color=D00000&center=true&vCenter=true&width=435&lines=Hello%2C+My+name+is+Faey;I+am+a+student;Informatics+Engineering" alt="Typing SVG" /></a>
+
+  <p align="center">
+    <samp>
+      "Janganlah pernah menyerah ketika kamu masih mampu berusaha lagi.
+      <br>
+      <b> Tidak ada kata berakhir sampai kamu berhenti mencoba."</b>
+    </samp>
+  </p>
+
+  <br/>
+
+  <a href="https://www.instagram.com/notttzeeeeeee">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=black" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">
-    <img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=d00000" alt="LinkedIn"/>
   </a>
-  <a href="mailto:EMAIL_KAMU@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=agustinovfreeze@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Gmail"/>
   </a>
+
 </div>
 
 <br/>
-
-<div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
-</div>
-
-<h2 align="center">⚠️ WARNING: HIGH SKILL LEVEL DETECTED ⚠️</h2>
-
-<div align="center">
-  <p>Saya seorang pengembang perangkat lunak dengan fokus pada skalabilitas dan keamanan. Kode saya bersih, efisien, dan mematikan.</p>
-</div>
 
 ---
 
-### 💀 ARSENAL (Tech Stack)
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCeqSE/giphy.gif" width="30px"> About Me
+
+> <samp>Saya adalah mahasiswa Teknik Informatika yang tertarik pada **Web Development** dan **Android Modding**.</samp>
+
+- 🔭 I’m currently working on **Coffee Shop Website**
+- 🌱 I’m currently learning **Python (Django) & English**
+- 📱 I love **Android Custom ROMs & Rooting**
+- ⚡ Fun fact: **"A corpse is talking."**
+
+---
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red">
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=red">
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=red">
-  <br/>
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=red">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=red">
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=red">
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=red">
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=red">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red">
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=red">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=black" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&color=d00000" />
+  <img src="https://img.shields.io/badge/CMake-%23F05033.svg?style=for-the-badge&logo=CMake&logoColor=white&color=black"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=d00000" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black" />
+  <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white&color=d00000" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/C++-%23F05033.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=d00000"/>
+  <img src="https://img.shields.io/badge/Dart-%23F05033.svg?style=for-the-badge&logo=Dart&logoColor=white&color=black" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
-</div>
-
-<h2 align="center">🩸 KILL COUNT (Statistics)</h2>
-
-<div align="center">
-  <a href="https://github.com/USERNAME_GITHUB_KAMU">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=bfbfbf&bg_color=000000" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/USERNAME_GITHUB_KAMU">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&hide_border=true&title_color=ff0000&text_color=bfbfbf&bg_color=000000&icon_color=ff0000" alt="Top Langs" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
-</div>
-
-<div align="center">
-  <p><i>"Code is poetry, bugs are the demons."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&label=VISITORS&color=red&style=flat" alt="Visitor Count" />
+  <samp>If you work for me, I’ll grant you any wish. <br/> <b>Bang.</b> 👉💥</samp>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d00000&height=100&section=footer" width="100%"/>
 </div>
