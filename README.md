@@ -14,5 +14,4 @@
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](http://t.me/faeyxn1ka)
 [![](https://img.shields.io/badge/Mastodon-6364ff)](https://mastodon.social/@FaeyDev)
 [![](https://www.codewars.com/users/FaeyDev/badges/micro)](https://www.codewars.com/users/FaeyDev)
-![Exercism Level](https://img.shields.io/badge/Exercism-Level%203-8a2be2?style=flat-square&logo=exercism&logoColor=white)](https://exercism.org/profiles/FaeyDev)
 </div>
