@@ -58,6 +58,8 @@
   <img src="https://img.shields.io/badge/Dart-%23F05033.svg?style=for-the-badge&logo=Dart&logoColor=white&color=black" />
 </div>
 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=FaeyDev&theme=flat&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br/>
 
 <div align="center">
