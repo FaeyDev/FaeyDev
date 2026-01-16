@@ -1,7 +1,3 @@
-# GitHub Statics
-
-![Metrics](https://github.com/FaeyDev/FaeyDev/blob/main/github.metrics.svg)
-
 <div align="center">
 <img src="zyarexx-removebg-preview.png" width="25%" align="right"/>
 <br><br>
@@ -19,3 +15,6 @@
 [![](https://img.shields.io/badge/Mastodon-6364ff)](https://mastodon.social/@FaeyDev)
 [![](https://www.codewars.com/users/FaeyDev/badges/micro)](https://www.codewars.com/users/FaeyDev)
 </div>
+# GitHub Statics
+
+![Metrics](https://github.com/FaeyDev/FaeyDev/blob/main/github.metrics.svg)
