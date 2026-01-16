@@ -16,4 +16,6 @@
 [![](https://www.codewars.com/users/FaeyDev/badges/micro)](https://www.codewars.com/users/FaeyDev)
 </div>
 
+# GitHub Statics
+
 ![Metrics](https://github.com/FaeyDev/FaeyDev/blob/main/github.metrics.svg)
