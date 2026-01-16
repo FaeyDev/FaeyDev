@@ -11,7 +11,7 @@
 <img src="https://media.tenor.com/2memSg91sNEAAAAi/bocchi-the-rock.gif" height="100" />
 <br><br>
     
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](http://t.me/Zyarexx)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](http://t.me/faeyxn1ka)
 [![](https://img.shields.io/badge/Mastodon-6364ff)](https://mastodon.social/@FaeyDev)
 [![](https://www.codewars.com/users/rakarmp/badges/micro)](https://www.codewars.com/users/rakarmp)
 </div>
