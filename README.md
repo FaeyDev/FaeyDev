@@ -14,4 +14,5 @@
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](http://t.me/faeyxn1ka)
 [![](https://img.shields.io/badge/Mastodon-6364ff)](https://mastodon.social/@FaeyDev)
 [![](https://www.codewars.com/users/FaeyDev/badges/micro)](https://www.codewars.com/users/FaeyDev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaeyDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
