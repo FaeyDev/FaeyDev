@@ -1,5 +1,5 @@
 <div align="center">
-<img src="979186-removebg-preview.png" width="25%" align="right"/>
+<img src="zyarexx-removebg-preview.png" width="25%" align="right"/>
 <br><br>
 <pre>
     💼 Open Source • Backend dev • Software Engginer
