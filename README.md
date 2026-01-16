@@ -4,7 +4,7 @@
 <pre>
     💼 Open Source • Backend dev • Software Engginer
     💻 System programming languages • LLVM 
-    🎮 Music • Games • Travelling • Code • Manga
+    🎮 Music • Games • Travelling • Code
     🍱 Nasi Goreng ➩ Smoke ➩ Coffe & Relaxx
 </pre>
 <br>
