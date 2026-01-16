@@ -1,3 +1,7 @@
+# GitHub Statics
+
+![Metrics](https://github.com/FaeyDev/FaeyDev/blob/main/github.metrics.svg)
+
 <div align="center">
 <img src="zyarexx-removebg-preview.png" width="25%" align="right"/>
 <br><br>
