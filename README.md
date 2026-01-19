@@ -2,7 +2,7 @@
 <img src="zyarexx-removebg-preview.png" width="25%" align="right"/>
 <br><br>
 <pre>
-    💼 Open Source • Backend dev • Software Engginer
+    💼 Open Source • Backend dev
     💻 System programming languages • LLVM 
     🎮 Music • Games • Travelling • Code
     🍱 Nasi Goreng ➩ Smoke ➩ Coffe & Relaxx
