@@ -6,6 +6,7 @@
     💻 Informatics Engineering • LLVM 
     🎮 Music • Games • Travelling • Code
     🍱 Nasi Goreng ➩ Smoke ➩ Coffe & Relaxx
+    
     Silence doesn't mean not knowing, sometimes it's the best way to observe.
 </pre>
 <br>
