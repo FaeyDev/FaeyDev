@@ -3,7 +3,7 @@
 <br><br>
 <pre>
     💼 Open Source • Backend dev
-    💻 System programming languages • LLVM 
+    💻 Informatics Engineering • LLVM 
     🎮 Music • Games • Travelling • Code
     🍱 Nasi Goreng ➩ Smoke ➩ Coffe & Relaxx
 </pre>
